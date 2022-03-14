@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseE7
 - 👀 I’m interested  el desarrollo de programas de gestión empresarial
-- 🌱 Im’m currently learning  python y diseño web
+- 🌱 Im’m currently learning  python, Data Science y Diseño Web
 - 💞️ I’m looking to collaborate on  proyectos de desarrollo web y programas de gestión empresarial
 
 - 📫 How to reach me :
